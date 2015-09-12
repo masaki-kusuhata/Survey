@@ -1,0 +1,68 @@
+[
+  {
+    "questionnaireid": "0",
+    [
+      {
+        "questionpattern": "0",
+        "title": "あれはどうでしたか？",
+      },
+      {
+        "questionpattern": "1",
+        "title": "はい、いいえでお答えください。",
+      },
+      {
+        "questionpattern": "2",
+        "title": "一つだけお選びください",
+        "choice": [
+          "A",
+          "B",
+          "その他"
+        ],
+        "other": true
+      },
+      {
+        "questionpattern": "3",
+        "title": "選択してください。",
+        "choice": [
+          "A",
+          "B",
+          "その他"
+        ],
+        "other": true
+      }
+    ]
+  },
+  {
+    "questionnaireid": "1",
+    [
+      {
+        "questionpattern": "0",
+        "title": "あれはどうでしたか？",
+      },
+      {
+        "questionpattern": "1",
+        "title": "はい、いいえでお答えください。",
+      },
+      {
+        "questionpattern": "2",
+        "title": "一つだけお選びください",
+        "choice": [
+          "A",
+          "B",
+          "その他"
+        ],
+        "other": true
+      },
+      {
+        "questionpattern": "3",
+        "title": "選択してください。",
+        "choice": [
+          "A",
+          "B",
+          "その他"
+        ],
+        "other": true
+      }
+    ]
+  }
+]

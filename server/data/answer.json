@@ -1,0 +1,35 @@
+[
+  {
+    "questionnaireid": "0",
+    "name": "",
+    "affiliation": "",
+    "answers": [
+      {
+        "questionpattern": "0",
+        "answer": "",
+      },
+      {
+        "questionpattern": "1",
+        "answer": true,
+      },
+      {
+        "questionpattern": "2",
+        "answer": [
+          "A",
+          "B",
+          "その他"
+        ],
+        "other": ""
+      },
+      {
+        "questionpattern": "3",
+        "answer": [
+          "A",
+          "B",
+          "その他"
+        ],
+        "other": ""
+      }
+    ]
+  }
+]
